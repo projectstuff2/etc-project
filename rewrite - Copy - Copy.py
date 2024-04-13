@@ -275,4 +275,4 @@ async def follow_chapter_time_difference():
     except Exception as e:
         print(f"An error occurred: {e}")
 
-bot.run('NjcwMDY0MDYxNjAxNDE1MTk5.G5H-T0.GrthKZWKn_DXz0Gfv84QIcsvsuFcuqxTx86-vA')
+bot.run('-')
