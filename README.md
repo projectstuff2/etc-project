@@ -265,7 +265,9 @@ it uses cfscrape to bypass cloudflare, which has been a pytohn package https://p
 why i am showing you this is because, i am not doing anything malicious and yes, while it did send out alot of request. i will implant on putting some interval to the variable so it could connect with it rather then individual interval for each function.
 
 Domains that are involved
+
 api.comick.fun - been used for a little before shutting the script down to write this
+
 api.comick.io - main api used for scraping and checking
 
 cloudflare ray id: 873a8e353f93532b
